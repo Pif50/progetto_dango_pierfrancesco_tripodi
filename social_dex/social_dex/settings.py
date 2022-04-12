@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #App create da me:
     'blog',
+    'users', #Applicazione ceh gestisce la registrazione dei nuovi utenti
 
     'crispy_forms',
     'crispy_bootstrap5',
