@@ -9,9 +9,9 @@ Applicazione web che permette di scrivere articoli verificati tramite l'utilizzo
 
 
 ## Framework e Tecnologie usate:
--[Django](https://docs.djangoproject.com/it/4.0/) - Back-end
--[Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Front-end
--[Redis](https://redis.io) - Server
+- [Django](https://docs.djangoproject.com/it/4.0/) - Back-end
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Front-end
+- [Redis](https://redis.io) - Server
 
 
 ## Setup progetto:
